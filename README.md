@@ -10,14 +10,21 @@ https://en.wikipedia.org/wiki/Flood_fill
 https://lodev.org/cgtutor/floodfill.html
 
 使用:
+
 导入头文件UIImage+FloodFill.h
+
 调用- (UIImage *)floodFillImageFromStartPoint: (CGPoint) startPoint newColor: (UIColor *)newColor tolerance: (CGFloat)tolerance useAntialias: (BOOL)antialias;
+
 startPoint： 相对于图片的起点
+
 newColor: 填充的颜色
+
 tolerance: 判断相邻颜色相同的容差值
+
 antialias: 是否抗锯齿化
 
 LinkedListQueue
+
 使用NSMutableData实现的性能更高的队列
 
 效果图：
