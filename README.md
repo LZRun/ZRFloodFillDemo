@@ -22,4 +22,4 @@ LinkedListQueue
 
 效果图：
 ![image](https://github.com/LZRun/ZRFloodFillDemo/blob/master/ZRFloodFillDemo/效果图/wfm_floodfill_animation_stack.gif)
-![image](https://github.com/LZRun/ZRFloodFillDemo/blob/master/ZRFloodFillDemo/效果图/2018-09-13%2015_34_06.gif)
+![image](ZRFloodFillDemo/ZRFloodFillDemo/效果图/2018-09-13 15_56_15.gif)
