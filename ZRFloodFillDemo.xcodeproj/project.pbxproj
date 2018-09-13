@@ -22,7 +22,7 @@
 		6C9EB8AA214A121E0030C08F /* LinkedListQueue.m in Sources */ = {isa = PBXBuildFile; fileRef = 6C9EB8A7214A121D0030C08F /* LinkedListQueue.m */; };
 		6C9EB8AD214A12280030C08F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6C9EB8AB214A12280030C08F /* ViewController.m */; };
 		6C9EB8B0214A48F70030C08F /* wfm_floodfill_animation_stack.gif in Resources */ = {isa = PBXBuildFile; fileRef = 6C9EB8AF214A48F60030C08F /* wfm_floodfill_animation_stack.gif */; };
-		6C9EB8B2214A4A920030C08F /* 2018-09-13 15_34_06.gif in Resources */ = {isa = PBXBuildFile; fileRef = 6C9EB8B1214A4A920030C08F /* 2018-09-13 15_34_06.gif */; };
+		6C9EB8B4214A4FDD0030C08F /* 2018-09-13 15_56_15.gif in Resources */ = {isa = PBXBuildFile; fileRef = 6C9EB8B3214A4FDD0030C08F /* 2018-09-13 15_56_15.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -68,7 +68,7 @@
 		6C9EB8AB214A12280030C08F /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		6C9EB8AC214A12280030C08F /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		6C9EB8AF214A48F60030C08F /* wfm_floodfill_animation_stack.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = wfm_floodfill_animation_stack.gif; sourceTree = "<group>"; };
-		6C9EB8B1214A4A920030C08F /* 2018-09-13 15_34_06.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "2018-09-13 15_34_06.gif"; sourceTree = "<group>"; };
+		6C9EB8B3214A4FDD0030C08F /* 2018-09-13 15_56_15.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "2018-09-13 15_56_15.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -163,7 +163,7 @@
 			isa = PBXGroup;
 			children = (
 				6C9EB8AF214A48F60030C08F /* wfm_floodfill_animation_stack.gif */,
-				6C9EB8B1214A4A920030C08F /* 2018-09-13 15_34_06.gif */,
+				6C9EB8B3214A4FDD0030C08F /* 2018-09-13 15_56_15.gif */,
 			);
 			path = "效果图";
 			sourceTree = "<group>";
@@ -275,7 +275,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				6C9EB8A0214A11F50030C08F /* 8BDD22B45708C65C3C240B88F3042EBD.png in Resources */,
-				6C9EB8B2214A4A920030C08F /* 2018-09-13 15_34_06.gif in Resources */,
 				6C9EB8A1214A11F50030C08F /* star.png in Resources */,
 				6C9EB8A5214A11FE0030C08F /* 2.jpg in Resources */,
 				6C9EB89C214A11AC0030C08F /* Main.storyboard in Resources */,
@@ -283,6 +282,7 @@
 				6C3162A0214A113D000A5AF4 /* LaunchScreen.storyboard in Resources */,
 				6C31629D214A113D000A5AF4 /* Assets.xcassets in Resources */,
 				6C9EB8B0214A48F70030C08F /* wfm_floodfill_animation_stack.gif in Resources */,
+				6C9EB8B4214A4FDD0030C08F /* 2018-09-13 15_56_15.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
