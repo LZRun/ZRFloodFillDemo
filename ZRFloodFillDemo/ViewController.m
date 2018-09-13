@@ -75,7 +75,7 @@
 - (void)covertImageToBitmapWithPoint: (CGPoint)point {
     UIImage *oldImage = _imageView.image;
     dispatch_async(dispatch_get_global_queue(0, 0), ^{
-       UIImage *image = [oldImage floodFillImageFromStartPoint:point newColor:_color tolerance:10 useAntialias:NO];
+       UIImage *image = [oldImage floodFillImageFromStartPoint:point newColor:_color tolerance:10 useAntialias:YES];
         dispatch_async(dispatch_get_main_queue(), ^{
             _imageView.image = image;
         });
