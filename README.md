@@ -29,7 +29,7 @@ antialias: 是否抗锯齿化
 
 LinkedListQueue
 
-使用NSMutableData实现的性能更高的队列
+使用NSMutableData实现的性能更高的栈结构
 
 效果图：
 
